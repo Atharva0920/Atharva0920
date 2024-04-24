@@ -7,7 +7,7 @@
 📍 Pune, India
 
 <!-- Your Social Media and Contact Links with Icons -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/atharva0920/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square&logo=portfolio)](https://www.yourportfolio.com)
 
 <!-- Your Technologies and Tools with Icons -->
