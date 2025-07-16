@@ -1,7 +1,7 @@
 <!-- Your Name and Bio -->
 # Hi there, I'm Atharva Ganmote! 👨‍💻
 
-## 🚀 Final Year Computer Science Student | Aspiring Software Development Engineer | Passionate Coder
+## 🚀 A Computer Science Graduate | Software Development Engineer | Passionate Coder 
 
 <!-- Your Location -->
 📍 Pune, India
