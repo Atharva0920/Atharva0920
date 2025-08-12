@@ -31,6 +31,7 @@
 
 <!-- Your GitHub Stats with Icons -->
 ## 📈 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atharva0920&theme=dark)](https://git.io/streak-stats)
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharva0920&show_icons=true&theme=radical)](https://github.com/Atharva0920/github-readme-stats)
 
 <!-- Your Recent Activity with Icons -->
